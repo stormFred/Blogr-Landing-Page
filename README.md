@@ -12,8 +12,6 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
   - [What I learned](#what-i-learned)
 - [Author](#stormFred)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -26,7 +24,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://stormfred.github.io/Blogr-Landing-Page/)
 
 ## My process
 
@@ -76,7 +74,8 @@ I had not thought of starting with mobile first then desktop, seeing that I had 
 ```
 
 ```js
-    ==>> The take away lesson learnt was that, its posible also to hide and display dropmenu/div by using visibility property other than toggle a show/hide class
+    ==>> The take away lesson learnt was that, its posible also to hide and display dropmenu/div
+    by using visibility property other than toggle a show/hide class
 
     ...
       function hideMenu() {
