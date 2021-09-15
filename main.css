@@ -201,7 +201,8 @@ p {
 	font-size: 0.951rem;
 	font-family: var(--ffamily);
 	color: var(--heading-blue);
-	margin-left: 20%;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 
 }
