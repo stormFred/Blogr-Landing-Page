@@ -201,7 +201,9 @@ p {
 	font-size: 0.951rem;
 	font-family: var(--ffamily);
 	color: var(--heading-blue);
-	margin-left: 25%;
+	margin: auto;
+	text-align: center;
+
 }
 
 .angledown {
