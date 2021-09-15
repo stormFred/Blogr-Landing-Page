@@ -712,10 +712,10 @@ img {
 	}
 
 	#dropContent > li a {
-		position: absolute;
+		position: relative;
 		width: 9rem;
+		left: -2.5rem;
 		margin-top: -1em;
-		margin-left: -.01rem;
 	}
 
 	a:hover,
