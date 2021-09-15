@@ -91,5 +91,4 @@ I had not thought of starting with mobile first then desktop, seeing that I had 
 
 ```
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@stormFred](https://www.frontendmentor.io/profile/stormFred)
