@@ -23,8 +23,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://stormfred.github.io/Blogr-Landing-Page/)
+- Solution URL: (https://github.com/stormFred/Blogr-Landing-Page)
+- Live Site URL: (https://stormfred.github.io/Blogr-Landing-Page/)
 
 ## My process
 
